@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960965553328",
+    "firebase_url": "https://feedbacksproject-default-rtdb.firebaseio.com",
+    "project_id": "feedbacksproject",
+    "storage_bucket": "feedbacksproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960965553328:android:60d2843a49e638d0d25f75",
+        "android_client_info": {
+          "package_name": "com.ropstamdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960965553328-kcqdodh89ms2icmhe0dsd2eu3vsrtttt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsJGeDs0b-T251o0npuEJYeEajR9ho0u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960965553328-kcqdodh89ms2icmhe0dsd2eu3vsrtttt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
